@@ -1,0 +1,32 @@
+profile: {
+  id: '115071965309325641700',
+  displayName: 'Dogukan Olgun',
+  name: { familyName: 'Olgun', givenName: 'Dogukan' },
+  emails: [ { value: 'dogukanolgun20000@gmail.com', verified: true } ],
+  photos: [
+    {
+      value: 'https://lh5.googleusercontent.com/-BX8-aN7UMfk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNFO_jxMj1EC_0WT7rPO0Mk5JDzQ/photo.jpg'
+    }
+  ],
+  provider: 'google',
+  _raw: '{\n' +
+    '  "sub": "115071965309325641700",\n' +
+    '  "name": "Dogukan Olgun",\n' +
+    '  "given_name": "Dogukan",\n' +
+    '  "family_name": "Olgun",\n' +
+    '  "picture": "https://lh5.googleusercontent.com/-BX8-aN7UMfk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNFO_jxMj1EC_0WT7rPO0Mk5JDzQ/photo.jpg",\n' +
+    '  "email": "dogukanolgun20000@gmail.com",\n' +
+    '  "email_verified": true,\n' +
+    '  "locale": "en-GB"\n' +
+    '}',
+  _json: {
+    sub: '115071965309325641700',
+    name: 'Dogukan Olgun',
+    given_name: 'Dogukan',
+    family_name: 'Olgun',
+    picture: 'https://lh5.googleusercontent.com/-BX8-aN7UMfk/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPNFO_jxMj1EC_0WT7rPO0Mk5JDzQ/photo.jpg',
+    email: 'dogukanolgun20000@gmail.com',
+    email_verified: true,
+    locale: 'en-GB'
+  }
+}
